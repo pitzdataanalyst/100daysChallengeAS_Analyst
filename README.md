@@ -10,4 +10,9 @@ It helps in Improved Decision Making, Better Customer Service, Efficient Operati
 
 Businesses use many modern tools and technologies to perform Data Analytics. 
 
+## Technologies Learned ⚙️
+
+
+* <a href="https://www.javatpoint.com/dbms-tutorial">Database Management System (DBMS)</a><a href="https://www.javatpoint.com/dbms-tutorial" target="_blank" rel="noreferrer">
+* <a href="https://www.tpointtech.com/sql-tutorial">Database Management System (DBMS)</a><a href="https://www.tpointtech.com/sql-tutorial" target="_blank" rel="noreferrer">
 
