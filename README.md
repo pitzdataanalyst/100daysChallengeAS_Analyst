@@ -20,7 +20,7 @@ Businesses use many modern tools and technologies to perform Data Analytics.
 * <a href="https://docs.python.org/3/tutorial/">Python</a><a href="https://docs.python.org/3/tutorial/" target="_blank" rel="noreferrer">
 * <a href="https://www.khanacademy.org/math/statistics-probability">Statistics & Probability</a><a href="https://www.khanacademy.org/math/statistics-probability" target="_blank" rel="noreferrer">
 
-<h1 align="center">Days 1: 100 Days of learning Data Analysis</h1> 
+<h1 align="center">Day 1: 100 Days of learning Data Analysis</h1> 
 
 🔹 Announcing My 100-Day Data Analyst Challenge! 🔹
 Over the next 100 days, I’ll be sharing daily learnings on Excel, SQL, Power BI, and Python, covering real-world case studies, projects, and insights.
@@ -34,7 +34,7 @@ Over the next 100 days, I’ll be sharing daily learnings on Excel, SQL, Power B
 
 <h2 align="center">Excel 📊</h2>
 
-<h2 align="center">Days 2: Excel for Data Analysis</h2> 
+<h2 align="center">Day 2: Excel for Data Analysis</h2> 
 
 🚀 Day 2: Basic Excel Functions for Data Analysis
 
@@ -79,7 +79,7 @@ Explored some fundamental Excel functions that every Data Analyst must know!
 
 ➡️ Rounded Avg Sales (No Decimal): =ROUND(AVERAGE(B2:B6),0) → ₹10,100
 
-<h2 align="center">Days 2: Excel for Data Analysis</h2> 
+<h2 align="center">Day 3: Excel for Data Analysis</h2> 
 
 🚀 Day 3: Mastering Conditional Functions in Excel!
 
