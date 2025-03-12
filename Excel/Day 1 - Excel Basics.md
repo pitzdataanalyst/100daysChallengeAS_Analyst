@@ -22,4 +22,4 @@ From data cleaning to visualization and reporting, mastering Excel will help me 
  ✅ ROUND(value, decimals): Rounds a number to the specified decimal places.
  
 
-🔗 [Detailed Post on LinkedIn](https://www.linkedin.com/in/priyankataklikar)
+🔗 [Detailed Post on LinkedIn](https://www.linkedin.com/posts/priyankataklikar_100daysofdata-excelfordataanalysts-datacleaning-activity-7303372998869237760-ZfKv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-nGUABJpvbVVs-0wlzvYqfT4t927RgnpI)
