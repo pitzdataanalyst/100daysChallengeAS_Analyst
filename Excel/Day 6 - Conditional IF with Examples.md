@@ -1,4 +1,4 @@
-#🚀 Day 6: Mastering Conditional IF in Excel with Real-World Scenarios!
+# Day 6 - 🚀  Mastering Conditional IF in Excel with Real-World Scenarios!
 
 I explored Conditional IF functions in Excel, solving real-world business challenges! 💡
 
