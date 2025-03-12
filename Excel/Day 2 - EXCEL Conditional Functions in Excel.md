@@ -18,5 +18,5 @@ These functions are essential for data analysts when filtering, summarizing, and
  
  ✅ Apply multiple conditions, like filtering purchases by category (SUMIFS, COUNTIFS, AVERAGEIFS, MAXIFS, MINIFS)
 
- ## 🔗 LinkedIn Post
+ ## 🔗 Detailed Post On LinkedIn 
 [Click here to read my detailed post](https://www.linkedin.com/in/priyankataklikar)
