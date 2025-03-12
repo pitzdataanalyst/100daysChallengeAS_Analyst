@@ -19,4 +19,4 @@ These functions are essential for data analysts when filtering, summarizing, and
  ✅ Apply multiple conditions, like filtering purchases by category (SUMIFS, COUNTIFS, AVERAGEIFS, MAXIFS, MINIFS)
 
  ## 🔗 Detailed Post On LinkedIn 
-[Click here to read my detailed post](https://www.linkedin.com/in/priyankataklikar)
+[Click here to read my detailed post](https://www.linkedin.com/posts/priyankataklikar_100daysofdata-100daysofdata-excelfordataanalysts-activity-7303810663259279360-iUX-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-nGUABJpvbVVs-0wlzvYqfT4t927RgnpI))
